@@ -1,0 +1,230 @@
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\bin\Debug\NLog.dll
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbierta\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\MariaDB\ClinicAbiertaMaria\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClinicAbiertaSQL\New folder (3)\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQL2\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\ClincAbiertaSQLarrays\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\backups\New folder (6)\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\New folder (6)\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (6)\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (12)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (13)\7FebSeemsToWorkOK\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (13)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (14)\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\New folder (14) - ForkA Fix Float\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\backups\20140516\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\backups\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\backups\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\backups\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140805\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140813\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\Trackbar Demo\20140813c\CachingAndNetSync\ClinicAbiertaSQLarrays\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\20141012\20141012\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.exe.manifest
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.application
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe.manifest
+C:\Users\user1\Desktop\20141012\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.application
+C:\Users\Test\Desktop\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\Test\Desktop\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.exe.manifest
+C:\Users\Test\Desktop\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.application
+C:\Users\Test\Desktop\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\Test\Desktop\20141014\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe.manifest
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.application
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\Test\Desktop\20141014\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\Test\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\Test\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.exe.manifest
+C:\Users\Test\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.application
+C:\Users\Test\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\Test\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe.manifest
+C:\Users\Test\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.application
+C:\Users\user1\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.exe.config
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.ConfigurationForm.resources
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Form1.resources
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.Properties.Resources.resources
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.exe.manifest
+C:\Users\user1\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.application
+C:\Users\user1\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.exe
+C:\Users\user1\Desktop\20150810\ClinicAbierta\bin\Debug\ClinicAbierta.pdb
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.exe.manifest
+C:\Users\user1\Desktop\20150810\ClinicAbierta\obj\x86\Debug\ClinicAbierta.application
